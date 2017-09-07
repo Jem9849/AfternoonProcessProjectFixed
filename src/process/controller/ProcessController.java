@@ -4,7 +4,7 @@ public class ProcessController
 {
 	public void start()
 	{
-		ProcessController appController = new ProcessController ();
-		appController.start();
+		System.out.println("This is a boring project.");
+		System.out.println("By practicing I get more boring. :D");
 	}
 }
